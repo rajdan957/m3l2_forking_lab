@@ -1,3 +1,3 @@
-Raj Dangol
-Virginia, USA
+Raj Dangol,
+Virginia, USA,
 Version Control
